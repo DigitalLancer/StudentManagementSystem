@@ -12,7 +12,7 @@ Bu proje; öğrencilerin, öğretmenlerin ve yöneticilerin sisteme giriş yapar
   - Backend + Database → AWS Ubuntu sunucusu  
   - Frontend → Netlify
 
-## 🎯 Bonus Görevler
+## Bonus Görevler
 
 - Backend ve PostgreSQL database AWS üzerinde canlıya alındı.
 - Frontend Netlify üzerinden deploy edildi.
@@ -38,4 +38,16 @@ cd StudentManagement.Api
 ### 4. Backend'i başlatın:
 ```bash
 dotnet run
+```
+### 5. Frontend klasörüne gidin:
+```bash
+cd student-management-frontend
+```
+### 6. Bağımlılıkları yükleyin:
+```bash
+npm install
+```
+### 7. Uygulamayı başlatın:
+```bash
+npm start
 ```
