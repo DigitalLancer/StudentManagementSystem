@@ -18,3 +18,14 @@ frontend/build/
 .vscode/
 .idea/
 .DS_Store
+
+.vs/
+*.user
+*.userosscache
+*.suo
+*.suo.*
+.vscode/
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
