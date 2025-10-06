@@ -3,7 +3,7 @@
 ## Proje Açıklaması
 Bu proje; öğrencilerin, öğretmenlerin ve yöneticilerin sisteme giriş yaparak ders, not, devamsızlık ve kullanıcı yönetimi işlemlerini gerçekleştirebildiği full-stack bir **öğrenci otomasyon sistemi**dir.  
 
-🚀 Canlı Demo: [https://studentautomanager.netlify.app/](https://your-app-name.netlify.app)
+🚀 Canlı Demo: [https://studentautomanager.netlify.app/](https://studentautomanager.netlify.app/)
 
 - **Frontend**: React  
 - **Backend**: ASP.NET Core 9 (C#)  
